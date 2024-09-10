@@ -33,7 +33,7 @@ public class DataLoader {
 
 
             } catch (Exception e) {
-                log.error("Data already exist");
+                log.error("Exception occurred", e);
             }
 
         };

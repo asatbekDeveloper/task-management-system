@@ -1,0 +1,67 @@
+2024-09-10 16:35:27.266 [main] INFO  u.t.t.TaskmanagementsystemApplication - Starting TaskmanagementsystemApplication using Java 17.0.11 with PID 7772 (C:\Users\user\Desktop\SAMPLE_PROJECT\task-management-system\taskmanagementsystem\target\classes started by user in C:\Users\user\Desktop\SAMPLE_PROJECT\task-management-system\taskmanagementsystem)
+2024-09-10 16:35:27.269 [main] INFO  u.t.t.TaskmanagementsystemApplication - The following 1 profile is active: "development"
+2024-09-10 16:35:27.938 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-10 16:35:27.994 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 48 ms. Found 1 JPA repository interface.
+2024-09-10 16:35:28.454 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8090 (http)
+2024-09-10 16:35:28.465 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2024-09-10 16:35:28.469 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-10 16:35:28.469 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-10 16:35:28.518 [main] INFO  o.a.c.c.C.[.[.[/taskmanagement] - Initializing Spring embedded WebApplicationContext
+2024-09-10 16:35:28.518 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1200 ms
+2024-09-10 16:35:28.544 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-09-10 16:35:28.699 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2024-09-10 16:35:28.700 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-09-10 16:35:28.711 [main] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2024-09-10 16:35:28.851 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-10 16:35:28.887 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-10 16:35:28.913 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-09-10 16:35:29.172 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-10 16:35:29.981 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-10 16:35:30.007 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-10 16:35:31.040 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2024-09-10 16:35:31.060 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8090 (http) with context path '/taskmanagement'
+2024-09-10 16:35:31.069 [main] INFO  u.t.t.TaskmanagementsystemApplication - Started TaskmanagementsystemApplication in 4.089 seconds (process running for 4.674)
+2024-09-10 16:35:31.500 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-10 16:35:31.502 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-09-10 16:35:31.504 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-09-10 16:35:34.757 [main] INFO  u.t.t.TaskmanagementsystemApplication - Starting TaskmanagementsystemApplication using Java 17.0.11 with PID 2428 (C:\Users\user\Desktop\SAMPLE_PROJECT\task-management-system\taskmanagementsystem\target\classes started by user in C:\Users\user\Desktop\SAMPLE_PROJECT\task-management-system\taskmanagementsystem)
+2024-09-10 16:35:34.759 [main] INFO  u.t.t.TaskmanagementsystemApplication - The following 1 profile is active: "development"
+2024-09-10 16:35:35.404 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-10 16:35:35.449 [main] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 38 ms. Found 1 JPA repository interface.
+2024-09-10 16:35:35.889 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8090 (http)
+2024-09-10 16:35:35.897 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8090"]
+2024-09-10 16:35:35.899 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-10 16:35:35.899 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.28]
+2024-09-10 16:35:35.959 [main] INFO  o.a.c.c.C.[.[.[/taskmanagement] - Initializing Spring embedded WebApplicationContext
+2024-09-10 16:35:35.959 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1163 ms
+2024-09-10 16:35:35.982 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2024-09-10 16:35:36.136 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+2024-09-10 16:35:36.138 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2024-09-10 16:35:36.146 [main] INFO  o.s.b.a.h.H2ConsoleAutoConfiguration - H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2024-09-10 16:35:36.293 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-09-10 16:35:36.330 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-09-10 16:35:36.353 [main] INFO  o.h.c.i.RegionFactoryInitiator - HHH000026: Second-level cache disabled
+2024-09-10 16:35:36.608 [main] INFO  o.s.o.j.p.SpringPersistenceUnitInfo - No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-09-10 16:35:37.351 [main] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-09-10 16:35:37.376 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-09-10 16:35:38.404 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8090"]
+2024-09-10 16:35:38.420 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8090 (http) with context path '/taskmanagement'
+2024-09-10 16:35:38.428 [main] INFO  u.t.t.TaskmanagementsystemApplication - Started TaskmanagementsystemApplication in 3.958 seconds (process running for 4.515)
+2024-09-10 16:35:57.103 [http-nio-8090-exec-1] INFO  o.a.c.c.C.[.[.[/taskmanagement] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-10 16:35:57.103 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-10 16:35:57.104 [http-nio-8090-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-10 16:35:57.209 [http-nio-8090-exec-1] INFO  u.t.t.service.impl.TaskServiceImpl - Saving a new task: TaskCreateDTO(title=string, description=string, dueDate=2024-09-10T11:29:03.352)
+2024-09-10 16:35:57.228 [http-nio-8090-exec-1] INFO  u.t.t.service.impl.TaskServiceImpl - Task saved successfully with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:07.284 [http-nio-8090-exec-3] INFO  u.t.t.service.impl.TaskServiceImpl - Updating task with id: d04cf2f7-0cd2-49d8-abbf-fc1833cc1afeq
+2024-09-10 16:36:07.284 [http-nio-8090-exec-3] INFO  u.t.t.service.impl.TaskServiceImpl - Finding task by id: d04cf2f7-0cd2-49d8-abbf-fc1833cc1afeq
+2024-09-10 16:36:23.973 [http-nio-8090-exec-4] INFO  u.t.t.service.impl.TaskServiceImpl - Updating task with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:23.973 [http-nio-8090-exec-4] INFO  u.t.t.service.impl.TaskServiceImpl - Finding task by id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:23.980 [http-nio-8090-exec-4] INFO  u.t.t.service.impl.TaskServiceImpl - Task updated successfully with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:33.131 [http-nio-8090-exec-8] INFO  u.t.t.service.impl.TaskServiceImpl - Updating task with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:33.132 [http-nio-8090-exec-8] INFO  u.t.t.service.impl.TaskServiceImpl - Finding task by id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:45.440 [http-nio-8090-exec-6] INFO  u.t.t.service.impl.TaskServiceImpl - Deleting task with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:45.441 [http-nio-8090-exec-6] INFO  u.t.t.service.impl.TaskServiceImpl - Finding task by id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:45.445 [http-nio-8090-exec-6] INFO  u.t.t.service.impl.TaskServiceImpl - Task deleted successfully with id: bfb8d3e3-bee9-4331-bf20-feed7f5bd9e7
+2024-09-10 16:36:53.916 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-10 16:36:53.918 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-09-10 16:36:53.920 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

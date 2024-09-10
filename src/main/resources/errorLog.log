@@ -1,0 +1,3 @@
+2024-09-10 16:36:07.319 [http-nio-8090-exec-3] ERROR u.t.t.service.impl.TaskServiceImpl - Task not found with id d04cf2f7-0cd2-49d8-abbf-fc1833cc1afeq:
+2024-09-10 16:36:07.322 [http-nio-8090-exec-3] ERROR u.t.t.utils.GlobalExceptionHandler - CustomException occurred: Code 404, Message Task not found
+2024-09-10 16:36:33.133 [http-nio-8090-exec-8] ERROR u.t.t.utils.GlobalExceptionHandler - RuntimeException occurred: Message No enum constant uz.taskmanagementsystem.taskmanagementsystem.enums.TaskStatus.IN_PROGRESSS
